@@ -1,0 +1,1 @@
+export const EXPENSE_DATA = "https://expense-tracker-beedc-default-rtdb.firebaseio.com/"
